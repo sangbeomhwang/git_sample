@@ -1,0 +1,4 @@
+<root>
+    <port>3000</port>
+    <message>App listening on the port 3000</message>
+</root>
